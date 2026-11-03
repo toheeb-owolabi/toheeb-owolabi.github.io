@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":720,"text":"Welcome."},{"start":1879,"text":"You're viewing a sample of an e-learning course"},{"start":4440,"text":"developed by Tahib Owalabi using Articulate storyline."},{"start":8680,"text":"All employer-specific and proprietary information has been removed."},{"start":13159,"text":"This portfolio version includes only content"},{"start":15880,"text":"publicly available on SAP's website."},{"start":19000,"text":"For your convenience,"},{"start":20200,"text":"navigation is unrestricted."},{"start":22479,"text":"Use the panel on the left to explore the course at your own pace."},{"start":26540,"text":"In the learner version,"},{"start":27860,"text":"navigation is typically guided to support an optimal learning sequence."},{"start":32580,"text":"Thank you for taking the time to explore Tahieb's work."},{"start":35819,"text":"Enjoy the course."}]}]};
+    window.globalLoadJsAsset('story_content/5szG8kmA4Su_transcripts.js', JSON.stringify(data));
+})();
